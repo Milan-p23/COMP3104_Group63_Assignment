@@ -14,3 +14,12 @@ A typical DevOps workflow involves:
 •⁠  ⁠Continuous Feedback (CF): Providing feedback to developers on the application's performance.
 •⁠  ⁠Continuous Improvement (CI): Improving the application's performance and efficiency.
 
+
+Example of a DevOps practice:
+•⁠  ⁠Automated Testing: Running automated tests as part of the CI pipeline to ensure code quality.
+•⁠  ⁠Automated Deployment: Using tools like Ansible or Terraform to automate the deployment of code to production.
+•⁠  ⁠Monitoring and Logging: Using tools like Prometheus or ELK to monitor and log application performance.
+•⁠  ⁠Feedback and Improvement: Using tools like JIRA or Trello to track and prioritize feedback and improvement
+•⁠  ⁠Collaboration: Using tools like Slack or Microsoft Teams to facilitate communication between teams.
+
+

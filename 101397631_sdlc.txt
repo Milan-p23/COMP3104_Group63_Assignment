@@ -16,3 +16,12 @@ This collaboration ensures that the software is deployable, maintainable, and sc
 DevOps tools such as Jenkins, Docker, and Kubernetes facilitate this integration and collaboration.
 These tools automate testing, deployment, and monitoring, making the software delivery process more efficient.
 
+
+Using DevOps in SDLC improves:
+•⁠  ⁠Development speed, by automating repetitive tasks.
+•⁠  ⁠Code quality, with continuous testing.
+•⁠  ⁠Deployment reliability, with automated deployment.
+•⁠  ⁠Collaboration between teams, with shared goals and responsibilities.
+•⁠  ⁠Scalability, with automated scaling.
+•⁠  ⁠Monitoring, with real-time monitoring and feedback.
+
