@@ -44,3 +44,8 @@ and deliver high-quality software to their customers.
 In COMP 3104, students learn how to apply DevOps principles and practices to real-world software
 development projects, making them more efficient and effective developers.
 
+DevOps culture promotes continuous improvement, ensuring that software evolves to meet user needs quickly.
+It also emphasizes collaboration, automation, and monitoring, making it a vital skill for modern developers.
+By learning DevOps practices, developers can improve their software development process, deliver high-quality software, and
+stay competitive in the industry.
+
