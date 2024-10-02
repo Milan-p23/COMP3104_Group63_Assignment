@@ -6,7 +6,7 @@
 ## Cloning the Repository
 1. **Clone this Repository:** Open your terminal (or command prompt) and run the following command to clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Milan-p23/COMP3104_Group63_Assignment
+   git clone https://github.com/Milan-p23/COMP3104_Group63_Assignment.git
 
 ## Navigate to the Project Directory
 Change into the project directory:
