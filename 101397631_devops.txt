@@ -38,3 +38,9 @@ Additionally, students learn about monitoring and logging using tools like Prome
 The course covers various DevOps tools and practices, including automated testing, automated deployment, and feedback and
 improvement.
 
+DevOps practices allow developers to ship reliable software faster, making it a crucial skill for modern developers.
+By understanding DevOps principles and practices, developers can improve the efficiency and reliability of their software development process
+and deliver high-quality software to their customers.
+In COMP 3104, students learn how to apply DevOps principles and practices to real-world software
+development projects, making them more efficient and effective developers.
+

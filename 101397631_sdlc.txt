@@ -39,3 +39,9 @@ This feedback loop enables teams to adapt quickly to changing requirements and p
 DevOps tools facilitate this feedback loop by providing real-time monitoring and feedback.
 This enables teams to make data-driven decisions and improve the software delivery process continuously.
 In summary, DevOps integrates with SDLC to improve software delivery speed, quality, and reliability.
+
+Integrating DevOps with SDLC reduces the time it takes to bring software from development to production.
+This integration also improves the quality of the software, by automating testing and deployment.
+DevOps tools such as Jenkins, Docker, and Kubernetes facilitate this integration and collaboration.
+These tools automate testing, deployment, and monitoring, making the software delivery process more efficient.
+
