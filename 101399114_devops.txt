@@ -17,3 +17,19 @@ The course also emphasizes key methodologies that align with DevOps practices, s
 culture of continuous improvement and rapid iteration, encouraging students to adopt practices that promote flexibility, responsiveness, 
 and customer-centric development. By understanding how to integrate Agile practices with DevOps, students will be equipped to work in 
 fast-paced environments where adaptability is crucial.
+
+Monitoring and logging are integral components of a successful DevOps strategy. The course highlights the significance of implementing 
+robust monitoring practices to ensure system reliability and performance. Students will learn how to utilize tools such as Prometheus, 
+Grafana, and ELK Stack (Elasticsearch, Logstash, and Kibana) to collect, analyze, and visualize metrics and logs, enabling them to 
+gain insights into system performance and user behavior.
+
+Moreover, the course will introduce students to the concept of feedback loops in DevOps, emphasizing their role in driving 
+enhancements in development processes. By leveraging feedback from stakeholders, monitoring tools, and automated testing, 
+students will learn how to implement a proactive approach to issue resolution and system optimization. This continuous 
+feedback mechanism is essential for fostering a culture of accountability and improvement within teams.
+
+By the end of the course, students will have a comprehensive understanding of DevOps principles and be equipped with 
+the skills necessary to contribute effectively to modern software development teams. They will understand the importance 
+of collaboration, automation, and continuous feedback in meeting the demands of rapid delivery and innovation in today's 
+technology landscape. Ultimately, COMP 3104 prepares students not only to implement DevOps practices but also to become 
+champions of change within their organizations, driving transformation and efficiency in software development and operations.
