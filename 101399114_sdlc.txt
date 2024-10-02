@@ -1,2 +1,15 @@
 The Software Development Life Cycle (SDLC) consists of several critical phases: planning, development, testing, deployment, and maintenance. 
 Each phase plays a vital role in ensuring the successful delivery of software products.
+
+1. Phases of SDLC:
+Planning: This phase involves defining the project scope, requirements, and objectives. It sets the foundation 
+for the entire development process and includes stakeholder engagement to align expectations.
+Development: In this phase, the actual coding takes place. Developers implement the functionalities outlined 
+in the planning phase. This phase often includes iterative development, where features are built and refined based on continuous feedback.
+Testing: Testing is crucial for identifying bugs and ensuring the software meets quality standards. It 
+involves various testing methods, including unit testing, integration testing, system testing, and user 
+acceptance testing (UAT). Automated testing tools can enhance efficiency and ensure consistency in test coverage.
+Deployment: Once testing is complete, the software is deployed to a production environment where it becomes 
+accessible to users. Deployment can be done in stages (rolling deployment) or all at once (big bang deployment), depending on the project's needs.
+Maintenance: After deployment, the software enters the maintenance phase, where it is updated, patched, and 
+improved based on user feedback and changing requirements. This phase is essential for ensuring long-term software reliability and relevance.
