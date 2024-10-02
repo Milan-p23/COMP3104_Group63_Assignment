@@ -1,0 +1,35 @@
+COMP 3104 focuses on the core principles and practices of DevOps, a transformative approach designed to enhance 
+collaboration between development and operations teams to deliver high-quality software more efficiently. 
+The course provides a comprehensive foundation in the methodologies, tools, and best practices that underpin 
+successful DevOps implementations, ensuring students are well-prepared for the dynamic landscape 
+of modern software development.
+The curriculum delves into essential concepts such as continuous integration (CI), continuous delivery (CD), and infrastructure 
+as code (IaC). These principles are critical for automating software deployment, testing, and monitoring, thus reducing the 
+time between writing code and delivering it to production. By adopting CI/CD pipelines, students will learn how to streamline 
+their workflows, improve code quality, and minimize deployment risks.
+
+Students will gain hands-on experience with a range of popular tools and frameworks, including Jenkins for CI/CD automation, 
+Docker for containerization, Kubernetes for container orchestration, and Terraform for managing cloud infrastructure as code. 
+This practical experience will enable students to automate deployment pipelines effectively and manage scalable cloud environments. 
+Additionally, they will explore configuration management tools like Ansible and Puppet, which further enhance operational efficiency.
+
+The course also emphasizes key methodologies that align with DevOps practices, such as Agile and Lean. These approaches foster a 
+culture of continuous improvement and rapid iteration, encouraging students to adopt practices that promote flexibility, responsiveness, 
+and customer-centric development. By understanding how to integrate Agile practices with DevOps, students will be equipped to work in 
+fast-paced environments where adaptability is crucial.
+
+Monitoring and logging are integral components of a successful DevOps strategy. The course highlights the significance of implementing 
+robust monitoring practices to ensure system reliability and performance. Students will learn how to utilize tools such as Prometheus, 
+Grafana, and ELK Stack (Elasticsearch, Logstash, and Kibana) to collect, analyze, and visualize metrics and logs, enabling them to 
+gain insights into system performance and user behavior.
+
+Moreover, the course will introduce students to the concept of feedback loops in DevOps, emphasizing their role in driving 
+enhancements in development processes. By leveraging feedback from stakeholders, monitoring tools, and automated testing, 
+students will learn how to implement a proactive approach to issue resolution and system optimization. This continuous 
+feedback mechanism is essential for fostering a culture of accountability and improvement within teams.
+
+By the end of the course, students will have a comprehensive understanding of DevOps principles and be equipped with 
+the skills necessary to contribute effectively to modern software development teams. They will understand the importance 
+of collaboration, automation, and continuous feedback in meeting the demands of rapid delivery and innovation in today's 
+technology landscape. Ultimately, COMP 3104 prepares students not only to implement DevOps practices but also to become 
+champions of change within their organizations, driving transformation and efficiency in software development and operations.
