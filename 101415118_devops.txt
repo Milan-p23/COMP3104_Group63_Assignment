@@ -1,0 +1,5 @@
+COMP 3104 is a DevOps course that usually covers the ideas, processes, and technologies used 
+in DevOps (Development and Operations). The training seeks to bridge the gap between software development
+and IT operations by supporting automation, continuous integration/continuous deployment (CI/CD), 
+and cross-team communication. While the specifics may differ based on the school, here's a broad summary 
+of what the course may include:
