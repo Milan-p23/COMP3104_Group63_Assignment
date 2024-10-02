@@ -2,3 +2,7 @@ Introduction to COMP 3104 - DevOps:
 
 COMP 3104 focuses on DevOps principles, including continuous integration, delivery, and collaboration between development and operations.
 
+Tools used in DevOps include:
+•⁠  ⁠Git for version control
+•⁠  ⁠Docker for containerization
+
