@@ -7,3 +7,25 @@ Students will engage with a variety of widely-used tools and frameworks, includi
 Throughout the course, students will work on real-world projects that reinforce their learning, enabling them to apply DevOps principles to enhance collaboration, streamline workflows, and achieve seamless software delivery.
 
 Students will also have the opportunity to participate in collaborative team projects, simulating real-world scenarios where they will be tasked with designing and implementing DevOps pipelines. These projects will encourage critical thinking and problem-solving skills as students navigate challenges related to system integration, deployment strategies, and performance monitoring.
+
+Assessments and Learning Outcomes
+Students will be evaluated through a combination of individual and group assignments, quizzes, and a final project. These assessments will be designed to measure not only technical proficiency but also the ability to work effectively in teams and communicate solutions clearly. By the end of the course, students will be equipped with the following competencies:
+
+Proficiency in DevOps Tools: Ability to use popular DevOps tools and frameworks effectively in real-world scenarios, facilitating smooth deployment and integration processes.
+
+Understanding of DevOps Methodologies: Knowledge of key methodologies such as Agile, Lean, and their application within a DevOps context to drive efficiency and innovation.
+
+Problem-Solving Skills: Enhanced problem-solving abilities, particularly in the context of system integration and deployment challenges, enabling students to navigate and resolve complex issues.
+
+Collaborative Mindset: A strong appreciation for the importance of collaboration and communication in software development and operations, preparing students to work effectively in team settings.
+
+Industry-Relevant Skills:
+To ensure the curriculum remains aligned with industry demands, guest speakers from leading tech companies will be invited to share insights on current trends and best practices in DevOps. This exposure will provide students with a real-world perspective on the skills and competencies required in the job market.
+
+Learning Resources:
+Students will have access to a wide range of learning resources, including online tutorials, case studies, and a curated selection of articles and books that focus on DevOps principles. Additionally, the course will incorporate hands-on lab sessions where students can practice using the tools and techniques discussed 
+in class, reinforcing their learning through practical application.
+
+Conclusion
+In summary, COMP 3104 - DevOps offers a comprehensive learning experience that prepares students for successful careers in software development and operations. By integrating theoretical knowledge with practical application, students will emerge with a robust skill set that enhances their employability and empowers them 
+to contribute to the evolution of DevOps practices in the tech industry.
