@@ -1,0 +1,2 @@
+The Software Development Life Cycle (SDLC) consists of several critical phases: planning, development, testing, deployment, and maintenance. 
+Each phase plays a vital role in ensuring the successful delivery of software products.

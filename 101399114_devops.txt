@@ -1,0 +1,5 @@
+COMP 3104 focuses on the core principles and practices of DevOps, a transformative approach designed to enhance 
+collaboration between development and operations teams to deliver high-quality software more efficiently. 
+The course provides a comprehensive foundation in the methodologies, tools, and best practices that underpin 
+successful DevOps implementations, ensuring students are well-prepared for the dynamic landscape 
+of modern software development.
