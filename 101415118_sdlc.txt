@@ -1,0 +1,5 @@
+Learning DevOps is critical in the software development cycle because it revolutionises the 
+traditional method of producing, delivering, and maintaining software by encouraging collaboration, 
+automation, and efficiency.
+
+Here's why DevOps is important:
