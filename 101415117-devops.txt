@@ -1,0 +1,9 @@
+COMP 3104 - DevOps is a comprehensive course designed to immerse students in the principles and practices of DevOps within the software development realm. Recognized as a critical paradigm shift in the IT industry, DevOps centers around the seamless integration of development and operations teams, fostering enhanced collaboration, efficiency, and continuous delivery of high-quality software products.
+
+The course explores key concepts foundational to DevOps, including Continuous Integration (CI), which encourages frequent merging of code changes into a central repository for automated testing and early issue detection. Continuous Delivery (CD) builds on this, ensuring reliable production releases through automated deployment processes.
+
+Students gain hands-on experience with essential tools such as Git for version control, automated testing methodologies, and containerization technologies like Docker for application packaging. The course introduces orchestration tools like Kubernetes for deploying and managing containerized applications.
+
+Practical assignments allow students to set up CI/CD pipelines and gain experience in Infrastructure as Code (IaC) to enhance consistency. Additionally, the course covers cloud services such as AWS and Microsoft Azure for scalable software delivery.
+
+By the end, participants will possess the skills and knowledge needed to implement DevOps practices effectively, preparing them for successful careers in modern software development and operations.
