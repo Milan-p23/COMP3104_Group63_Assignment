@@ -1,0 +1,3 @@
+Introduction to COMP 3104 - DevOps:
+
+This course delves into the foundational principles and practices of DevOps, designed to improve collaboration between development and operations teams, resulting in the efficient delivery of high-quality software. This course introduces critical concepts such as continuous integration (CI), continuous deployment (CD), and infrastructure as code (IaC), highlighting their significance in automating software deployment, testing, and monitoring processes.
