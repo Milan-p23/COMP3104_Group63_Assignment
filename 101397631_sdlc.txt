@@ -25,3 +25,11 @@ Using DevOps in SDLC improves:
 •⁠  ⁠Scalability, with automated scaling.
 •⁠  ⁠Monitoring, with real-time monitoring and feedback.
 
+DevOps improves SDLC by:
+•⁠  ⁠Reducing manual errors.
+•⁠  ⁠Ensuring faster releases.
+•⁠  ⁠Improving collaboration.
+•⁠  ⁠Enhancing scalability.
+•⁠  ⁠Providing real-time monitoring and feedback.
+•⁠  ⁠Automating testing and deployment.
+
