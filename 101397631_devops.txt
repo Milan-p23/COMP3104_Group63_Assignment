@@ -6,3 +6,11 @@ Tools used in DevOps include:
 •⁠  ⁠Git for version control
 •⁠  ⁠Docker for containerization
 
+
+A typical DevOps workflow involves:
+•⁠  ⁠Continuous Integration (CI): Automating the integration of code into a shared repository.
+•⁠  ⁠Continuous Delivery (CD): Automating code deployment.
+•⁠  ⁠Continuous Monitoring (CM): Monitoring the application's performance and making adjustments as needed.
+•⁠  ⁠Continuous Feedback (CF): Providing feedback to developers on the application's performance.
+•⁠  ⁠Continuous Improvement (CI): Improving the application's performance and efficiency.
+

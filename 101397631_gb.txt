@@ -7,3 +7,12 @@ Programs offered include:
 •⁠  ⁠Nursing
 •⁠  ⁠Business Administration
 
+George Brown has modern facilities such as the Centre for Health Sciences and the School of Design and Computer Science.
+The Centre for Health Sciences is a state-of-the-art facility that provides students with hands-on experience in    
+healthcare settings. The School of Design offers students a chance to explore various design disciplines.
+The School of Design is located in the heart of downtown Toronto, providing students with access to a vibrant
+and diverse community.
+The School of Computer Science offers students a chance to explore various computer science disciplines.
+The School of Computer Science is located in the heart of downtown Toronto, providing students with access to a
+vibrant and diverse community.
+
