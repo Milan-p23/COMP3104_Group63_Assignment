@@ -23,3 +23,15 @@ Key Features :
 
 6. Containerisation: Using Docker and Kubernetes to containerise and orchestrate applications, 
     ensuring they are scalable and portable.
+
+Learning Outcomes:
+
+1. Acquire expertise in automating software testing, deployment, and monitoring.
+
+2. Set up CI/CD pipelines to simplify software delivery.
+
+3. Become familiar with cloud-based infrastructures and containerised apps.
+
+4. Learn how to effectively cooperate with development and operational teams.
+
+This course is frequently orientated at students with prior experience in software development and IT infrastructure.      
