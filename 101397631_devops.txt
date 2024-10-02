@@ -23,3 +23,12 @@ Example of a DevOps practice:
 •⁠  ⁠Collaboration: Using tools like Slack or Microsoft Teams to facilitate communication between teams.
 
 
+Key DevOps principles include:
+•⁠  ⁠Collaboration: Developers and operations teams work together to solve issues.
+•⁠  ⁠Automation: Repetitive tasks like testing and deployment are automated.
+•⁠  ⁠Continuous Improvement: The application is continuously improved and updated.
+•⁠  ⁠Feedback: Feedback is provided to developers on the application's performance.
+•⁠  ⁠Monitoring: The application's performance is continuously monitored.
+•⁠  ⁠Security: Security is a top priority in DevOps.
+
+
