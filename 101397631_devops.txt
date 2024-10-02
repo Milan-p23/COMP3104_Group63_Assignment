@@ -32,3 +32,9 @@ Key DevOps principles include:
 •⁠  ⁠Security: Security is a top priority in DevOps.
 
 
+In COMP 3104, students learn how to implement CI/CD pipelines using tools like Jenkins and GitHub Actions.
+They also learn about containerization using Docker and Kubernetes.
+Additionally, students learn about monitoring and logging using tools like Prometheus and ELK.
+The course covers various DevOps tools and practices, including automated testing, automated deployment, and feedback and
+improvement.
+
