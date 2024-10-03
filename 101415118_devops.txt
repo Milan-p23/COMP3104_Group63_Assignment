@@ -1,0 +1,37 @@
+COMP 3104 is a DevOps course that usually covers the ideas, processes, and technologies used 
+in DevOps (Development and Operations). The training seeks to bridge the gap between software development
+and IT operations by supporting automation, continuous integration/continuous deployment (CI/CD), 
+and cross-team communication. While the specifics may differ based on the school, here's a broad summary 
+of what the course may include:
+
+Key Features :
+
+1. Introduction to DevOps: Learn about DevOps' philosophy, practices, and culture. 
+    Improve workflow efficiency by encouraging collaboration between development and operations teams.
+
+2. Version Control Systems: Using Git and other version control systems to manage code, track changes, 
+    and foster collaboration.
+
+3. Automation Tools: Learn how to automate configuration management (Ansible, Chef, Puppet), testing, and 
+    deployment (Jenkins, Travis CI).
+
+4. Continuous Integration/Continuous Deployment (CI/CD): Creating pipelines that automatically create, test,
+     and deploy code. Jenkins, CircleCI, and GitLab CI are commonly used.
+
+5. Cloud Computing and Infrastructure as Code (IaC): Understanding cloud platforms such as AWS, Azure, and 
+    Google Cloud. Implementing IaC using Terraform and CloudFormation.
+
+6. Containerisation: Using Docker and Kubernetes to containerise and orchestrate applications, 
+    ensuring they are scalable and portable.
+
+Learning Outcomes:
+
+1. Acquire expertise in automating software testing, deployment, and monitoring.
+
+2. Set up CI/CD pipelines to simplify software delivery.
+
+3. Become familiar with cloud-based infrastructures and containerised apps.
+
+4. Learn how to effectively cooperate with development and operational teams.
+
+This course is frequently orientated at students with prior experience in software development and IT infrastructure.      
