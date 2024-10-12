@@ -11,3 +11,10 @@ the provisioning of infrastructure. This allows developers to maintain consisten
 and production, minimizing configuration drift and manual errors. The course also covers monitoring and logging tools like 
 Prometheus and ELK stack, helping students understand the importance of maintaining a well-monitored, resilient system. 
 By mastering these concepts, students are prepared to manage modern cloud environments and large-scale applications.
+
+Beyond the technical aspects, COMP 3104 emphasizes the cultural shift that DevOps brings to organizations. 
+Students explore the principles of collaboration between development and operations teams, focusing on breaking 
+down silos to create a unified approach to software delivery. The course encourages students to adopt an agile, 
+iterative mindset, with a focus on continuous improvement. By the end of the course, students are not only proficient 
+in the tools and technologies associated with DevOps but also understand the broader organizational benefits, 
+such as faster time to market, improved product quality, and enhanced team collaboration.
