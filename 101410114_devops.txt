@@ -4,3 +4,10 @@ emphasizes collaboration, automation, and continuous delivery to improve the eff
 In this course, students learn about core DevOps practices such as version control using Git, containerization with Docker, 
 continuous integration/continuous delivery (CI/CD) pipelines, and cloud-based infrastructure management. 
 These tools and techniques are critical for streamlining the development lifecycle, reducing errors, and accelerating deployment.
+
+A key component of COMP 3104 is its focus on automation and scalability, both of which are fundamental to the DevOps mindset. 
+Students are introduced to infrastructure-as-code (IaC) practices, where they use tools like Terraform or Ansible to automate 
+the provisioning of infrastructure. This allows developers to maintain consistent environments across development, testing, 
+and production, minimizing configuration drift and manual errors. The course also covers monitoring and logging tools like 
+Prometheus and ELK stack, helping students understand the importance of maintaining a well-monitored, resilient system. 
+By mastering these concepts, students are prepared to manage modern cloud environments and large-scale applications.
