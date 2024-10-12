@@ -6,6 +6,7 @@
 - **Member 2:** Deep Patel (101415117) - [GitHub Profile](https://github.com/Deeppatel91)
 - **Member 3:** Neeraj Kumar (1011415118) - [GitHub Profile](https://github.com/NeerajBudhiraja1807)
 - **Member 4:** Mohmadsahil Shaikh (101413469) - [GitHub Profile](https://github.com/sahils777)
+- **Member 5:** Karm Patel (101410114) - [GitHub Profile](https://github.com/Milan-p23/COMP3104_Group63_Assignment/tree/101410114-Karm)
 
 ## Project Description
 This repository contains the group assignment for the COMP3104 DevOps course. The assignment focuses on collaborative Git workflows, branching strategies, and CI/CD integration using GitHub Actions. Each member contributes to the project through individual branches that are later merged into the main branch, ensuring continuous integration and collaboration.
